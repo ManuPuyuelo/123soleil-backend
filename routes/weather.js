@@ -18,6 +18,7 @@ router.post("/", (req, res) => {
       )
         .then((response) => response.json())
         .then((apiData) => {
+          console.log(apiData);
           // Creates new document with weather data
           const newCity = new City({
             cityName: req.body.cityName,
