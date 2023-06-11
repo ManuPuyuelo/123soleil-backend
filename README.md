@@ -1,4 +1,4 @@
-# 123Soleil - Backend
+# ⛅ 123Soleil - Backend
 
 Weather tracking website
 
@@ -9,5 +9,5 @@ Weather tracking website
 - Weather data storage in a database
 
 ## Technologies Used
-- Backend & Database : Node.js, Express, MongoDB
 - [Frontend](https://github.com/ManuPuyuelo/123soleil-frontend) : HTML, CSS, Javascript
+- Backend & Database : Node.js, Express, MongoDB
