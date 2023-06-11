@@ -10,4 +10,4 @@ Weather tracking website
 
 ## Technologies Used
 - Backend & Database : Node.js, Express, MongoDB
-- On the following link: [Frontend](https://github.com/ManuPuyuelo/123soleil-frontend) : HTML, CSS, Javascript
+- [Frontend](https://github.com/ManuPuyuelo/123soleil-frontend) : HTML, CSS, Javascript
